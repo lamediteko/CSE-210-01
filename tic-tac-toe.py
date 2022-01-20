@@ -1,5 +1,7 @@
 #TIC-TAC-TOE, ,WK2 SOLO CODE.LAME DITEKO.
 
+#i followed a tutorial on youtube to complete the code . dont know if that is allowed. but i thought i should mention it.
+
 import random
 #tic-tac-toe board
 board = ["=","=","=",
